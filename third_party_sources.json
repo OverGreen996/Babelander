@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
-  "release_tag": "v1.4.7",
-  "repository": "OverGreen996/Babelander-Releases",
+  "version": "1.4.8",
+  "release_tag": "v1.4.8",
+  "repository": "OverGreen996/Babelander",
   "sources": [
     {
       "filename": "qtbase-everywhere-src-6.11.2.tar.xz",

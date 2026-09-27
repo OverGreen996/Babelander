@@ -16,13 +16,13 @@ Babelander 為 Windows PC 遊戲玩家提供英文 → 繁體中文翻譯與中�
 
 **一般使用者推薦：下載最新 Windows 安裝版（檔名以 `-Setup.exe` 結尾）。**
 
-### [下載 Babelander 最新版本 →](https://github.com/OverGreen996/Babelander-Releases/releases/latest)
+### [下載 Babelander 最新版本 →](https://github.com/OverGreen996/Babelander/releases/latest)
 
 進入發布頁後，展開 **Assets**，選擇 `Babelander-版本-Setup.exe`。免安裝使用者請選擇 `Babelander-版本-Windows-Lite.zip`。
 
-[查看更新日誌](https://github.com/OverGreen996/Babelander-Releases/releases)
+[查看更新日誌](https://github.com/OverGreen996/Babelander/releases)
 
-**[下載完整使用手冊（繁體中文 ZIP）](https://github.com/OverGreen996/Babelander-Releases/releases/download/v1.4.3/Babelander-User-Manual-zh-TW.zip)**
+**[下載完整使用手冊（繁體中文 ZIP）](https://github.com/OverGreen996/Babelander/releases/download/v1.4.3/Babelander-User-Manual-zh-TW.zip)**
 
 解壓後，以瀏覽器開啟 `Babelander_完整使用手冊.html`。內附 Google／Azure／DeepL 教學，請保留同一資料夾內的 `docs`。最新版安裝包與免安裝包也已內附手冊，可從程式的「設定與下載」開啟。
 
@@ -92,13 +92,13 @@ Babelander 為 Windows PC 遊戲玩家提供英文 → 繁體中文翻譯與中�
 
 ## 下載與安裝
 
-1. 從 [官方 Release](https://github.com/OverGreen996/Babelander-Releases/releases/latest) 下載 `Setup.exe` 並依畫面安裝，不需要另外安裝 Python。免安裝版則完整解壓 `Windows-Lite.zip` 後執行，勿直接在 ZIP 內啟動。
+1. 從 [官方 Release](https://github.com/OverGreen996/Babelander/releases/latest) 下載 `Setup.exe` 並依畫面安裝，不需要另外安裝 Python。免安裝版則完整解壓 `Windows-Lite.zip` 後執行，勿直接在 ZIP 內啟動。
 2. 開啟「設定與下載」。使用本機翻譯前，手動下載翻譯模型與額外執行元件；使用雲端則設定所選服務的 API。
 3. 框選遊戲中的文字區域，再啟動需要的翻譯功能。建議先以視窗或無邊框模式使用。
 
 **升級不必先解除安裝**：安裝版可在程式內檢查更新，下載完成並通過檔案大小與 SHA-256 驗證後，由你確認安裝與重新啟動；升級保留模型、設定與字典，不會在背景自行安裝。
 
-**首次啟用 OTA**：舊版使用者請先手動安裝 v1.4.7 或更新版本一次，之後即可使用程式內 OTA。仍可關閉 Babelander 後直接執行新版 Setup 升級；免安裝版維持下載新版 Windows-Lite ZIP 手動更新。
+**首次啟用 OTA**：因官方發布庫已改名為 Babelander，v1.4.7 與更早版本的使用者請先手動安裝 v1.4.8 或更新版本一次，之後即可使用程式內 OTA。仍可關閉 Babelander 後直接執行新版 Setup 升級；免安裝版維持下載新版 Windows-Lite ZIP 手動更新。
 
 解除安裝會一併刪除模型、執行元件、設定、自訂辭典與快取，需要保留的資料請先備份。
 
